@@ -1,4 +1,2 @@
 # IntroPython
-Katas elaboradas en el curso.
-
-Mauricio Munguía García.
+Katas de Python elaboradas en LaunchX.
